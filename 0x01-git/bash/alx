@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-#/bin/bash
-echo ALX
-echo ALX School is cool
-=======
+#!/bin/bash
 ALX
->>>>>>> update_script
